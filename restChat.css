@@ -6,6 +6,10 @@ h2, h3, p {
 h1 {
     font-family: Arial, sans-serif;
     color: red;
+    border: none;
+    border-top: 3px solid #f8b739;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .small {
