@@ -6,7 +6,7 @@ h2, h3, p {
 h1 {
     font-family: Arial, cursive;
     color: #E6E6FA;
-    border: 5px dotted #f8b739;
+    border: 5px solid #f8b739;
     margin-top: 20px;
     margin-bottom: 30px;
 }
