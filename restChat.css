@@ -1,7 +1,7 @@
 /* Some styles for text */
 h2, h3, p {
     font-family: Verdana, sans-serif;
-    border: 5px solid red;
+    border: 5px solid #f8b739;
     color: #E6E6FA;
 }
 
