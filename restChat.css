@@ -1,6 +1,7 @@
 /* Some styles for text */
 h2, h3, p {
     font-family: Verdana, sans-serif;
+    border: 5px solid red;
 }
 
 h1 {
